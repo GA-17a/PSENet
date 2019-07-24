@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shape Robust Text Detection with Progressive Scale Expansion Network
 
 ## Requirements
