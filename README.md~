@@ -13,10 +13,7 @@ We apply it to camera-captured invoice image here.
 ## Training
 ```
 sh train.sh
-<<<<<<< HEAD
 ```
-=======
->>>>>>> 6b78f685364985ea258f685a5737836e2fefadaf
 
 ## Testing
 ```
