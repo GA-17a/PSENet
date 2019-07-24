@@ -25,7 +25,7 @@ uncompleted......
 
 ## Results
 <div align="center">
-  <img src="https://github.com/GA-17a/PSENet/tree/master/detection_result/0.png">
+  <img src="https://github.com/GA-17a/PSENet/blob/master/detection_result/0.png">
 </div>
 <p align="center">
   Figure 1: The results on our own test dataset
@@ -37,4 +37,4 @@ uncompleted......
 [old version paper] [https://arxiv.org/abs/1806.02559](https://arxiv.org/abs/1806.02559)
 
 ## Reference
-[thanks @[whai362]](https://github.com/whai362))] [https://github.com/https://github.com/whai362/PSENet.git/PSENet](https://github.com/whai362/PSENet)
+[thanks@[whai362](https://github.com/whai362)] [https://github.com/whai362/PSENet.git/PSENet](https://github.com/whai362/PSENet)

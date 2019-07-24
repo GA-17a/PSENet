@@ -37,4 +37,4 @@ uncompleted......
 [old version paper] [https://arxiv.org/abs/1806.02559](https://arxiv.org/abs/1806.02559)
 
 ## Reference
-[thanks@[whai362](https://github.com/whai362)] [https://github.com/whai362/PSENet.git/PSENet](https://github.com/whai362/PSENet)
+[thanks@[whai362](https://github.com/whai362)] [https://github.com/whai362/PSENet](https://github.com/whai362/PSENet)
